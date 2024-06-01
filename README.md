@@ -1,2 +1,5 @@
 # BCamp-Activity1
-This is the first activity or practice exercise number one for the coding bootcampers.
+
+Hi. This is Jessamine's Activity 1 repository!
+
+This is the first activity or practice exercise number one for the coding boot campers.
